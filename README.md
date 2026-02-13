@@ -18,14 +18,7 @@ Basé dans le **Maine-et-Loire (49 🍎)**, je conçois des solutions robustes e
 
 ### 🚀 Mon Activité GitHub
 
-#### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=atom497&theme=radical&no-frame=true&margin-w=15)
-
-#### 📊 Statistiques Détaillées
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=atom497&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Stats de atom497" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom497&layout=compact&theme=radical" alt="Langages les plus utilisés" width="300" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=toto49&locale=fr&short_numbers=true)](https://git.io/streak-stats)
 
 ---
 
