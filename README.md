@@ -26,8 +26,8 @@ Basé dans le Maine-et-Loire (49 🍎), j'aime transformer des idées complexes 
 
 ### 🚀 Mes Statistiques GitHub
 
-![Résumé de mes stats](https://github-readme-stats.vercel.app/api?username=toto49&show_icons=true&theme=radical)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=toto49&layout=compact&theme=radical)
+![Résumé de mes stats](https://github-readme-stats.vercel.app/api?username=atom497&show_icons=true&theme=radical)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=atom497&layout=compact&theme=radical)
 
 ---
 
